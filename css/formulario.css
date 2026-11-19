@@ -13,3 +13,12 @@ body {
   background-color: var(--cor-principal);
   padding: 20px;
 }
+
+form {
+  color: var(--cor-texto);
+  background-color: var(--cor-fundo);
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 20px;
+}
