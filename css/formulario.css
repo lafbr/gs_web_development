@@ -36,3 +36,15 @@ label {
   display: block;
   font-weight: bold;
 }
+
+input {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+span {
+  color: var(--erro);
+  font-size: 14px;
+}
