@@ -7,3 +7,9 @@
     --enviar: #39865A;
     --hover: #2a6b45;
 }
+
+body {
+  font-family: Arial;
+  background-color: var(--cor-principal);
+  padding: 20px;
+}
