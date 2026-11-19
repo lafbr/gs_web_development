@@ -1,0 +1,9 @@
+:root {
+    --cor-principal: #ebede3;
+    --cor-fundo: #ffffff;
+    --cor-texto: #174b38;
+    --erro: red;
+    --certo: green;
+    --enviar: #39865A;
+    --hover: #2a6b45;
+}
