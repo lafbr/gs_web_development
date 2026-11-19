@@ -62,3 +62,23 @@ button {
     background-color: var(--hover);
   }
 }
+
+#resultado {
+  color: var(--certo);
+  font-weight: bold;
+}
+
+.opcoes {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 0;
+  margin-top: 3px;
+}
+
+.opcao {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: normal;
+  cursor: pointer;
+}
