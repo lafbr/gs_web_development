@@ -82,3 +82,16 @@ button {
   font-weight: normal;
   cursor: pointer;
 }
+
+.opcao input {
+  width: auto;
+}
+
+textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  font-family: Arial;
+  box-sizing: border-box;
+  resize: vertical;
+}
